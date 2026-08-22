@@ -208,7 +208,11 @@
                     </p>
                 </div>
                 <div class="col-md-6 text-center text-md-right">
-                    <p class="m-0">Designed by <a class="text-white" href="https://htmlcodex.com">HTML Codex</a> Distributed by <a href="https://themewagon.com" target="_blank">ThemeWagon</a></a>
+                    <p class="m-0">
+                        Designed and Developed by
+                        <a class="text-white" href="https://nextechis.com" target="_blank">
+                            Nextechis Software Solutions
+                        </a>
                     </p>
                 </div>
             </div>
