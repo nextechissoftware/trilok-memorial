@@ -3,10 +3,10 @@
 
 <head>
     <meta charset="utf-8">
-    <title>Edukate - Online Education Website Template</title>
+    <title>Trilok Memorial Public School</title>
     <meta content="width=device-width, initial-scale=1.0" name="viewport">
-    <meta content="Free HTML Templates" name="keywords">
-    <meta content="Free HTML Templates" name="description">
+    <meta content="Trilok Memorial Public School, Nursery to 8th, School in India" name="keywords">
+    <meta content="Trilok Memorial Public School - Knowledge Is Our Weapon" name="description">
 
     <!-- Favicon -->
     <link href="img/favicon.ico" rel="icon">
@@ -33,7 +33,7 @@
                 <div class="d-inline-flex align-items-center text-white">
                     <small><i class="fa fa-phone-alt mr-2"></i>+012 345 6789</small>
                     <small class="px-3">|</small>
-                    <small><i class="fa fa-envelope mr-2"></i>info@example.com</small>
+                    <small><i class="fa fa-envelope mr-2"></i>trilokmemorial9@gmail.com</small>
                 </div>
             </div>
             <div class="col-lg-6 text-center text-lg-right">
@@ -63,30 +63,22 @@
     <!-- Navbar Start -->
     <div class="container-fluid p-0">
         <nav class="navbar navbar-expand-lg bg-white navbar-light py-3 py-lg-0 px-lg-5">
-            <a href="index.html" class="navbar-brand ml-lg-3">
-                <h1 class="m-0 text-uppercase text-primary"><i class="fa fa-book-reader mr-3"></i>Edukate</h1>
+            <a href="index.php" class="navbar-brand ml-lg-3 d-flex align-items-center">
+                <img src="img/logo.png" alt="Trilok Memorial Public School" style="height:65px;" class="mr-2">
+                <h1 class="m-0 text-uppercase text-primary" style="font-size:20px; line-height:1.2;">Trilok Memorial<span class="d-block" style="font-size:12px; letter-spacing:1px;">PUBLIC SCHOOL</span></h1>
             </a>
             <button type="button" class="navbar-toggler" data-toggle="collapse" data-target="#navbarCollapse">
                 <span class="navbar-toggler-icon"></span>
             </button>
             <div class="collapse navbar-collapse justify-content-between px-lg-3" id="navbarCollapse">
                 <div class="navbar-nav mx-auto py-0">
-                    <a href="index.html" class="nav-item nav-link">Home</a>
-                    <a href="about.html" class="nav-item nav-link">About</a>
-                    <a href="course.html" class="nav-item nav-link">Courses</a>
-                    <div class="nav-item dropdown">
-                        <a href="#" class="nav-link dropdown-toggle active" data-toggle="dropdown">Pages</a>
-                        <div class="dropdown-menu m-0">
-                            <a href="detail.html" class="dropdown-item">Course Detail</a>
-                            <a href="feature.html" class="dropdown-item active">Our Features</a>
-                            <a href="team.html" class="dropdown-item">Instructors</a>
-                            <a href="testimonial.html" class="dropdown-item">Testimonial</a>
-                        </div>
-                    </div>
-                    <a href="contact.html" class="nav-item nav-link">Contact</a>
-                </div>
-                <a href="" class="btn btn-primary py-2 px-4 d-none d-lg-block">Join Us</a>
-            </div>
+                    <a href="index.php" class="nav-item nav-link">Home</a>
+                    <a href="about.php" class="nav-item nav-link">About</a>
+                    <a href="course.php" class="nav-item nav-link">Classes</a>
+                    <a href="gallery.php" class="nav-item nav-link">Gallery</a>
+                    <a href="disclosure.php" class="nav-item nav-link">Mandatory Public Disclosure</a>
+                    <a href="contact.php" class="nav-item nav-link">Contact</a>
+                </div>            </div>
         </nav>
     </div>
     <!-- Navbar End -->
@@ -95,81 +87,58 @@
     <!-- Header Start -->
     <div class="jumbotron jumbotron-fluid page-header position-relative overlay-bottom" style="margin-bottom: 90px;">
         <div class="container text-center py-5">
-            <h1 class="text-white display-1">Features</h1>
+            <h1 class="text-white display-1">Testimonial</h1>
             <div class="d-inline-flex text-white mb-5">
                 <p class="m-0 text-uppercase"><a class="text-white" href="">Home</a></p>
                 <i class="fa fa-angle-double-right pt-1 px-3"></i>
-                <p class="m-0 text-uppercase">Features</p>
-            </div>
-            <div class="mx-auto mb-5" style="width: 100%; max-width: 600px;">
-                <div class="input-group">
-                    <div class="input-group-prepend">
-                        <button class="btn btn-outline-light bg-white text-body px-4 dropdown-toggle" type="button" data-toggle="dropdown"
-                            aria-haspopup="true" aria-expanded="false">Courses</button>
-                        <div class="dropdown-menu">
-                            <a class="dropdown-item" href="#">Courses 1</a>
-                            <a class="dropdown-item" href="#">Courses 2</a>
-                            <a class="dropdown-item" href="#">Courses 3</a>
-                        </div>
-                    </div>
-                    <input type="text" class="form-control border-light" style="padding: 30px 25px;" placeholder="Keyword">
-                    <div class="input-group-append">
-                        <button class="btn btn-secondary px-4 px-lg-5">Search</button>
-                    </div>
-                </div>
+                <p class="m-0 text-uppercase">Testimonial</p>
             </div>
         </div>
     </div>
     <!-- Header End -->
 
 
-    <!-- Feature Start -->
+    <!-- Testimonial Start -->
     <div class="container-fluid py-5">
         <div class="container py-5">
-            <div class="row">
-                <div class="col-lg-7 mb-5 mb-lg-0">
+            <div class="row align-items-center">
+                <div class="col-lg-5 mb-5 mb-lg-0">
                     <div class="section-title position-relative mb-4">
-                        <h6 class="d-inline-block position-relative text-secondary text-uppercase pb-2">Why Choose Us?</h6>
-                        <h1 class="display-4">Why You Should Start Learning with Us?</h1>
+                        <h6 class="d-inline-block position-relative text-secondary text-uppercase pb-2">Testimonial</h6>
+                        <h1 class="display-4">What Parents Say</h1>
                     </div>
-                    <p class="mb-4 pb-2">Aliquyam accusam clita nonumy ipsum sit sea clita ipsum clita, ipsum dolores amet voluptua duo dolores et sit ipsum rebum, sadipscing et erat eirmod diam kasd labore clita est. Diam sanctus gubergren sit rebum clita amet.</p>
-                    <div class="d-flex mb-3">
-                        <div class="btn-icon bg-primary mr-4">
-                            <i class="fa fa-2x fa-graduation-cap text-white"></i>
-                        </div>
-                        <div class="mt-n1">
-                            <h4>Skilled Instructors</h4>
-                            <p>Labore rebum duo est Sit dolore eos sit tempor eos stet, vero vero clita magna kasd no nonumy et eos dolor magna ipsum.</p>
-                        </div>
-                    </div>
-                    <div class="d-flex mb-3">
-                        <div class="btn-icon bg-secondary mr-4">
-                            <i class="fa fa-2x fa-certificate text-white"></i>
-                        </div>
-                        <div class="mt-n1">
-                            <h4>International Certificate</h4>
-                            <p>Labore rebum duo est Sit dolore eos sit tempor eos stet, vero vero clita magna kasd no nonumy et eos dolor magna ipsum.</p>
-                        </div>
-                    </div>
-                    <div class="d-flex">
-                        <div class="btn-icon bg-warning mr-4">
-                            <i class="fa fa-2x fa-book-reader text-white"></i>
-                        </div>
-                        <div class="mt-n1">
-                            <h4>Online Classes</h4>
-                            <p class="m-0">Labore rebum duo est Sit dolore eos sit tempor eos stet, vero vero clita magna kasd no nonumy et eos dolor magna ipsum.</p>
-                        </div>
-                    </div>
+                    <p class="m-0">Our parents and students love being a part of the Trilok Memorial family. Here is what a few of them have to say about their experience with us.</p>
                 </div>
-                <div class="col-lg-5" style="min-height: 500px;">
-                    <div class="position-relative h-100">
-                        <img class="position-absolute w-100 h-100" src="img/feature.jpg" style="object-fit: cover;">
+                <div class="col-lg-7">
+                    <div class="owl-carousel testimonial-carousel">
+                        <div class="bg-light p-5">
+                            <i class="fa fa-3x fa-quote-left text-primary mb-4"></i>
+                            <p>The teachers here are caring and patient, and my child looks forward to school every single day. We are truly happy with Trilok Memorial Public School.</p>
+                            <div class="d-flex flex-shrink-0 align-items-center mt-4">
+                                <img class="img-fluid mr-4" src="img/testimonial-2.jpg" alt="">
+                                <div>
+                                    <h5>Student Name</h5>
+                                    <span>Parent</span>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="bg-light p-5">
+                            <i class="fa fa-3x fa-quote-left text-primary mb-4"></i>
+                            <p>From Nursery onwards, the school has given my child a strong foundation and a genuine love for learning. The staff is always approachable and supportive.</p>
+                            <div class="d-flex flex-shrink-0 align-items-center mt-4">
+                                <img class="img-fluid mr-4" src="img/testimonial-1.jpg" alt="">
+                                <div>
+                                    <h5>Student Name</h5>
+                                    <span>Parent</span>
+                                </div>
+                            </div>
+                        </div>
                     </div>
                 </div>
             </div>
         </div>
     </div>
-    <!-- Feature Start -->
+    <!-- Testimonial Start -->
 
 
     <!-- Footer Start -->
@@ -177,10 +146,11 @@
         <div class="container mt-5 pt-5">
             <div class="row">
                 <div class="col-md-6 mb-5">
-                    <a href="index.html" class="navbar-brand">
-                        <h1 class="mt-n2 text-uppercase text-white"><i class="fa fa-book-reader mr-3"></i>Edukate</h1>
+                    <a href="index.php" class="navbar-brand d-flex align-items-center">
+                        <img src="img/logo.png" alt="Trilok Memorial Public School" style="height:60px;" class="mr-2 rounded-circle bg-white">
+                        <h1 class="mt-n2 text-uppercase text-white" style="font-size:18px;">Trilok Memorial Public School</h1>
                     </a>
-                    <p class="m-0">Accusam nonumy clita sed rebum kasd eirmod elitr. Ipsum ea lorem at et diam est, tempor rebum ipsum sit ea tempor stet et consetetur dolores. Justo stet diam ipsum lorem vero clita diam</p>
+                    <p class="m-0">Trilok Memorial Public School is committed to providing quality education from Nursery to Class 8, focusing on the all-round development of every child in a safe and nurturing environment.</p>
                 </div>
                 <div class="col-md-6 mb-5">
                     <h3 class="text-white mb-4">Newsletter</h3>
@@ -199,7 +169,7 @@
                     <h3 class="text-white mb-4">Get In Touch</h3>
                     <p><i class="fa fa-map-marker-alt mr-2"></i>123 Street, New York, USA</p>
                     <p><i class="fa fa-phone-alt mr-2"></i>+012 345 67890</p>
-                    <p><i class="fa fa-envelope mr-2"></i>info@example.com</p>
+                    <p><i class="fa fa-envelope mr-2"></i>trilokmemorial9@gmail.com</p>
                     <div class="d-flex justify-content-start mt-4">
                         <a class="text-white mr-4" href="#"><i class="fab fa-2x fa-twitter"></i></a>
                         <a class="text-white mr-4" href="#"><i class="fab fa-2x fa-facebook-f"></i></a>
@@ -208,13 +178,13 @@
                     </div>
                 </div>
                 <div class="col-md-4 mb-5">
-                    <h3 class="text-white mb-4">Our Courses</h3>
+                    <h3 class="text-white mb-4">Our Classes</h3>
                     <div class="d-flex flex-column justify-content-start">
-                        <a class="text-white-50 mb-2" href="#"><i class="fa fa-angle-right mr-2"></i>Web Design</a>
-                        <a class="text-white-50 mb-2" href="#"><i class="fa fa-angle-right mr-2"></i>Apps Design</a>
-                        <a class="text-white-50 mb-2" href="#"><i class="fa fa-angle-right mr-2"></i>Marketing</a>
-                        <a class="text-white-50 mb-2" href="#"><i class="fa fa-angle-right mr-2"></i>Research</a>
-                        <a class="text-white-50" href="#"><i class="fa fa-angle-right mr-2"></i>SEO</a>
+                        <a class="text-white-50 mb-2" href="#"><i class="fa fa-angle-right mr-2"></i>Nursery - UKG</a>
+                        <a class="text-white-50 mb-2" href="#"><i class="fa fa-angle-right mr-2"></i>Class 1 - 5</a>
+                        <a class="text-white-50 mb-2" href="#"><i class="fa fa-angle-right mr-2"></i>Class 6 - 8</a>
+                        <a class="text-white-50 mb-2" href="gallery.php"><i class="fa fa-angle-right mr-2"></i>Gallery</a>
+                        <a class="text-white-50" href="disclosure.php"><i class="fa fa-angle-right mr-2"></i>Mandatory Public Disclosure</a>
                     </div>
                 </div>
                 <div class="col-md-4 mb-5">
@@ -234,7 +204,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-md-6 text-center text-md-left mb-3 mb-md-0">
-                    <p class="m-0">Copyright &copy; <a class="text-white" href="#">Your Site Name</a>. All Rights Reserved.
+                    <p class="m-0">Copyright &copy; <a class="text-white" href="#">Trilok Memorial Public School</a>. All Rights Reserved.
                     </p>
                 </div>
                 <div class="col-md-6 text-center text-md-right">

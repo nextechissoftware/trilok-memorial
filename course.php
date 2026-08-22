@@ -3,10 +3,10 @@
 
 <head>
     <meta charset="utf-8">
-    <title>Edukate - Online Education Website Template</title>
+    <title>Trilok Memorial Public School</title>
     <meta content="width=device-width, initial-scale=1.0" name="viewport">
-    <meta content="Free HTML Templates" name="keywords">
-    <meta content="Free HTML Templates" name="description">
+    <meta content="Trilok Memorial Public School, Nursery to 8th, School in India" name="keywords">
+    <meta content="Trilok Memorial Public School - Knowledge Is Our Weapon" name="description">
 
     <!-- Favicon -->
     <link href="img/favicon.ico" rel="icon">
@@ -33,7 +33,7 @@
                 <div class="d-inline-flex align-items-center text-white">
                     <small><i class="fa fa-phone-alt mr-2"></i>+012 345 6789</small>
                     <small class="px-3">|</small>
-                    <small><i class="fa fa-envelope mr-2"></i>info@example.com</small>
+                    <small><i class="fa fa-envelope mr-2"></i>trilokmemorial9@gmail.com</small>
                 </div>
             </div>
             <div class="col-lg-6 text-center text-lg-right">
@@ -63,30 +63,22 @@
     <!-- Navbar Start -->
     <div class="container-fluid p-0">
         <nav class="navbar navbar-expand-lg bg-white navbar-light py-3 py-lg-0 px-lg-5">
-            <a href="index.html" class="navbar-brand ml-lg-3">
-                <h1 class="m-0 text-uppercase text-primary"><i class="fa fa-book-reader mr-3"></i>Edukate</h1>
+            <a href="index.php" class="navbar-brand ml-lg-3 d-flex align-items-center">
+                <img src="img/logo.png" alt="Trilok Memorial Public School" style="height:65px;" class="mr-2">
+                <h1 class="m-0 text-uppercase text-primary" style="font-size:20px; line-height:1.2;">Trilok Memorial<span class="d-block" style="font-size:12px; letter-spacing:1px;">PUBLIC SCHOOL</span></h1>
             </a>
             <button type="button" class="navbar-toggler" data-toggle="collapse" data-target="#navbarCollapse">
                 <span class="navbar-toggler-icon"></span>
             </button>
             <div class="collapse navbar-collapse justify-content-between px-lg-3" id="navbarCollapse">
                 <div class="navbar-nav mx-auto py-0">
-                    <a href="index.html" class="nav-item nav-link">Home</a>
-                    <a href="about.html" class="nav-item nav-link">About</a>
-                    <a href="course.html" class="nav-item nav-link active">Courses</a>
-                    <div class="nav-item dropdown">
-                        <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown">Pages</a>
-                        <div class="dropdown-menu m-0">
-                            <a href="detail.html" class="dropdown-item">Course Detail</a>
-                            <a href="feature.html" class="dropdown-item">Our Features</a>
-                            <a href="team.html" class="dropdown-item">Instructors</a>
-                            <a href="testimonial.html" class="dropdown-item">Testimonial</a>
-                        </div>
-                    </div>
-                    <a href="contact.html" class="nav-item nav-link">Contact</a>
-                </div>
-                <a href="" class="btn btn-primary py-2 px-4 d-none d-lg-block">Join Us</a>
-            </div>
+                    <a href="index.php" class="nav-item nav-link">Home</a>
+                    <a href="about.php" class="nav-item nav-link">About</a>
+                    <a href="course.php" class="nav-item nav-link active">Classes</a>
+                    <a href="gallery.php" class="nav-item nav-link">Gallery</a>
+                    <a href="disclosure.php" class="nav-item nav-link">Mandatory Public Disclosure</a>
+                    <a href="contact.php" class="nav-item nav-link">Contact</a>
+                </div>            </div>
         </nav>
     </div>
     <!-- Navbar End -->
@@ -95,28 +87,11 @@
     <!-- Header Start -->
     <div class="jumbotron jumbotron-fluid page-header position-relative overlay-bottom" style="margin-bottom: 90px;">
         <div class="container text-center py-5">
-            <h1 class="text-white display-1">Courses</h1>
+            <h1 class="text-white display-1">Classes</h1>
             <div class="d-inline-flex text-white mb-5">
                 <p class="m-0 text-uppercase"><a class="text-white" href="">Home</a></p>
                 <i class="fa fa-angle-double-right pt-1 px-3"></i>
-                <p class="m-0 text-uppercase">Courses</p>
-            </div>
-            <div class="mx-auto mb-5" style="width: 100%; max-width: 600px;">
-                <div class="input-group">
-                    <div class="input-group-prepend">
-                        <button class="btn btn-outline-light bg-white text-body px-4 dropdown-toggle" type="button" data-toggle="dropdown"
-                            aria-haspopup="true" aria-expanded="false">Courses</button>
-                        <div class="dropdown-menu">
-                            <a class="dropdown-item" href="#">Courses 1</a>
-                            <a class="dropdown-item" href="#">Courses 2</a>
-                            <a class="dropdown-item" href="#">Courses 3</a>
-                        </div>
-                    </div>
-                    <input type="text" class="form-control border-light" style="padding: 30px 25px;" placeholder="Keyword">
-                    <div class="input-group-append">
-                        <button class="btn btn-secondary px-4 px-lg-5">Search</button>
-                    </div>
-                </div>
+                <p class="m-0 text-uppercase">Classes</p>
             </div>
         </div>
     </div>
@@ -129,129 +104,91 @@
             <div class="row mx-0 justify-content-center">
                 <div class="col-lg-8">
                     <div class="section-title text-center position-relative mb-5">
-                        <h6 class="d-inline-block position-relative text-secondary text-uppercase pb-2">Our Courses</h6>
-                        <h1 class="display-4">Checkout New Releases Of Our Courses</h1>
+                        <h6 class="d-inline-block position-relative text-secondary text-uppercase pb-2">Our Classes</h6>
+                        <h1 class="display-4">Nursery To Class 8th</h1>
                     </div>
                 </div>
             </div>
             <div class="row">
                 <div class="col-lg-4 col-md-6 pb-4">
-                    <a class="courses-list-item position-relative d-block overflow-hidden mb-2" href="detail.html">
+                    <a class="courses-list-item position-relative d-block overflow-hidden mb-2" href="detail.php">
                         <img class="img-fluid" src="img/courses-1.jpg" alt="">
                         <div class="courses-text">
-                            <h4 class="text-center text-white px-3">Web design & development courses for
-                                beginners</h4>
+                            <h4 class="text-center text-white px-3">Nursery</h4>
                             <div class="border-top w-100 mt-3">
                                 <div class="d-flex justify-content-between p-4">
-                                    <span class="text-white"><i class="fa fa-user mr-2"></i>Jhon Doe</span>
-                                    <span class="text-white"><i class="fa fa-star mr-2"></i>4.5
-                                        <small>(250)</small></span>
+                                    <span class="text-white"><i class="fa fa-user mr-2"></i>Foundational Years</span>
                                 </div>
                             </div>
                         </div>
                     </a>
                 </div>
                 <div class="col-lg-4 col-md-6 pb-4">
-                    <a class="courses-list-item position-relative d-block overflow-hidden mb-2" href="detail.html">
+                    <a class="courses-list-item position-relative d-block overflow-hidden mb-2" href="detail.php">
                         <img class="img-fluid" src="img/courses-2.jpg" alt="">
                         <div class="courses-text">
-                            <h4 class="text-center text-white px-3">Web design & development courses for
-                                beginners</h4>
+                            <h4 class="text-center text-white px-3">LKG</h4>
                             <div class="border-top w-100 mt-3">
                                 <div class="d-flex justify-content-between p-4">
-                                    <span class="text-white"><i class="fa fa-user mr-2"></i>Jhon Doe</span>
-                                    <span class="text-white"><i class="fa fa-star mr-2"></i>4.5
-                                        <small>(250)</small></span>
+                                    <span class="text-white"><i class="fa fa-user mr-2"></i>Foundational Years</span>
                                 </div>
                             </div>
                         </div>
                     </a>
                 </div>
                 <div class="col-lg-4 col-md-6 pb-4">
-                    <a class="courses-list-item position-relative d-block overflow-hidden mb-2" href="detail.html">
+                    <a class="courses-list-item position-relative d-block overflow-hidden mb-2" href="detail.php">
                         <img class="img-fluid" src="img/courses-3.jpg" alt="">
                         <div class="courses-text">
-                            <h4 class="text-center text-white px-3">Web design & development courses for
-                                beginners</h4>
+                            <h4 class="text-center text-white px-3">UKG</h4>
                             <div class="border-top w-100 mt-3">
                                 <div class="d-flex justify-content-between p-4">
-                                    <span class="text-white"><i class="fa fa-user mr-2"></i>Jhon Doe</span>
-                                    <span class="text-white"><i class="fa fa-star mr-2"></i>4.5
-                                        <small>(250)</small></span>
+                                    <span class="text-white"><i class="fa fa-user mr-2"></i>Foundational Years</span>
                                 </div>
                             </div>
                         </div>
                     </a>
                 </div>
                 <div class="col-lg-4 col-md-6 pb-4">
-                    <a class="courses-list-item position-relative d-block overflow-hidden mb-2" href="detail.html">
+                    <a class="courses-list-item position-relative d-block overflow-hidden mb-2" href="detail.php">
                         <img class="img-fluid" src="img/courses-4.jpg" alt="">
                         <div class="courses-text">
-                            <h4 class="text-center text-white px-3">Web design & development courses for
-                                beginners</h4>
+                            <h4 class="text-center text-white px-3">Primary Wing (Class 1 - 5)</h4>
                             <div class="border-top w-100 mt-3">
                                 <div class="d-flex justify-content-between p-4">
-                                    <span class="text-white"><i class="fa fa-user mr-2"></i>Jhon Doe</span>
-                                    <span class="text-white"><i class="fa fa-star mr-2"></i>4.5
-                                        <small>(250)</small></span>
+                                    <span class="text-white"><i class="fa fa-user mr-2"></i>Classes 1 to 5</span>
                                 </div>
                             </div>
                         </div>
                     </a>
                 </div>
                 <div class="col-lg-4 col-md-6 pb-4">
-                    <a class="courses-list-item position-relative d-block overflow-hidden mb-2" href="detail.html">
+                    <a class="courses-list-item position-relative d-block overflow-hidden mb-2" href="detail.php">
                         <img class="img-fluid" src="img/courses-5.jpg" alt="">
                         <div class="courses-text">
-                            <h4 class="text-center text-white px-3">Web design & development courses for
-                                beginners</h4>
+                            <h4 class="text-center text-white px-3">Middle Wing (Class 6 - 8)</h4>
                             <div class="border-top w-100 mt-3">
                                 <div class="d-flex justify-content-between p-4">
-                                    <span class="text-white"><i class="fa fa-user mr-2"></i>Jhon Doe</span>
-                                    <span class="text-white"><i class="fa fa-star mr-2"></i>4.5
-                                        <small>(250)</small></span>
+                                    <span class="text-white"><i class="fa fa-user mr-2"></i>Classes 6 to 8</span>
                                 </div>
                             </div>
                         </div>
                     </a>
                 </div>
                 <div class="col-lg-4 col-md-6 pb-4">
-                    <a class="courses-list-item position-relative d-block overflow-hidden mb-2" href="detail.html">
+                    <a class="courses-list-item position-relative d-block overflow-hidden mb-2" href="detail.php">
                         <img class="img-fluid" src="img/courses-6.jpg" alt="">
                         <div class="courses-text">
-                            <h4 class="text-center text-white px-3">Web design & development courses for
-                                beginners</h4>
+                            <h4 class="text-center text-white px-3">Co-Curricular Activities</h4>
                             <div class="border-top w-100 mt-3">
                                 <div class="d-flex justify-content-between p-4">
-                                    <span class="text-white"><i class="fa fa-user mr-2"></i>Jhon Doe</span>
-                                    <span class="text-white"><i class="fa fa-star mr-2"></i>4.5
-                                        <small>(250)</small></span>
+                                    <span class="text-white"><i class="fa fa-user mr-2"></i>Sports, Art & Music</span>
                                 </div>
                             </div>
                         </div>
                     </a>
                 </div>
-                <div class="col-12">
-                    <nav aria-label="Page navigation">
-                        <ul class="pagination pagination-lg justify-content-center mb-0">
-                          <li class="page-item disabled">
-                            <a class="page-link rounded-0" href="#" aria-label="Previous">
-                              <span aria-hidden="true">&laquo;</span>
-                              <span class="sr-only">Previous</span>
-                            </a>
-                          </li>
-                          <li class="page-item active"><a class="page-link" href="#">1</a></li>
-                          <li class="page-item"><a class="page-link" href="#">2</a></li>
-                          <li class="page-item"><a class="page-link" href="#">3</a></li>
-                          <li class="page-item">
-                            <a class="page-link rounded-0" href="#" aria-label="Next">
-                              <span aria-hidden="true">&raquo;</span>
-                              <span class="sr-only">Next</span>
-                            </a>
-                          </li>
-                        </ul>
-                      </nav>
-                </div>
+
             </div>
         </div>
     </div>
@@ -263,10 +200,11 @@
         <div class="container mt-5 pt-5">
             <div class="row">
                 <div class="col-md-6 mb-5">
-                    <a href="index.html" class="navbar-brand">
-                        <h1 class="mt-n2 text-uppercase text-white"><i class="fa fa-book-reader mr-3"></i>Edukate</h1>
+                    <a href="index.php" class="navbar-brand d-flex align-items-center">
+                        <img src="img/logo.png" alt="Trilok Memorial Public School" style="height:60px;" class="mr-2 rounded-circle bg-white">
+                        <h1 class="mt-n2 text-uppercase text-white" style="font-size:18px;">Trilok Memorial Public School</h1>
                     </a>
-                    <p class="m-0">Accusam nonumy clita sed rebum kasd eirmod elitr. Ipsum ea lorem at et diam est, tempor rebum ipsum sit ea tempor stet et consetetur dolores. Justo stet diam ipsum lorem vero clita diam</p>
+                    <p class="m-0">Trilok Memorial Public School is committed to providing quality education from Nursery to Class 8, focusing on the all-round development of every child in a safe and nurturing environment.</p>
                 </div>
                 <div class="col-md-6 mb-5">
                     <h3 class="text-white mb-4">Newsletter</h3>
@@ -285,7 +223,7 @@
                     <h3 class="text-white mb-4">Get In Touch</h3>
                     <p><i class="fa fa-map-marker-alt mr-2"></i>123 Street, New York, USA</p>
                     <p><i class="fa fa-phone-alt mr-2"></i>+012 345 67890</p>
-                    <p><i class="fa fa-envelope mr-2"></i>info@example.com</p>
+                    <p><i class="fa fa-envelope mr-2"></i>trilokmemorial9@gmail.com</p>
                     <div class="d-flex justify-content-start mt-4">
                         <a class="text-white mr-4" href="#"><i class="fab fa-2x fa-twitter"></i></a>
                         <a class="text-white mr-4" href="#"><i class="fab fa-2x fa-facebook-f"></i></a>
@@ -294,13 +232,13 @@
                     </div>
                 </div>
                 <div class="col-md-4 mb-5">
-                    <h3 class="text-white mb-4">Our Courses</h3>
+                    <h3 class="text-white mb-4">Our Classes</h3>
                     <div class="d-flex flex-column justify-content-start">
-                        <a class="text-white-50 mb-2" href="#"><i class="fa fa-angle-right mr-2"></i>Web Design</a>
-                        <a class="text-white-50 mb-2" href="#"><i class="fa fa-angle-right mr-2"></i>Apps Design</a>
-                        <a class="text-white-50 mb-2" href="#"><i class="fa fa-angle-right mr-2"></i>Marketing</a>
-                        <a class="text-white-50 mb-2" href="#"><i class="fa fa-angle-right mr-2"></i>Research</a>
-                        <a class="text-white-50" href="#"><i class="fa fa-angle-right mr-2"></i>SEO</a>
+                        <a class="text-white-50 mb-2" href="#"><i class="fa fa-angle-right mr-2"></i>Nursery - UKG</a>
+                        <a class="text-white-50 mb-2" href="#"><i class="fa fa-angle-right mr-2"></i>Class 1 - 5</a>
+                        <a class="text-white-50 mb-2" href="#"><i class="fa fa-angle-right mr-2"></i>Class 6 - 8</a>
+                        <a class="text-white-50 mb-2" href="gallery.php"><i class="fa fa-angle-right mr-2"></i>Gallery</a>
+                        <a class="text-white-50" href="disclosure.php"><i class="fa fa-angle-right mr-2"></i>Mandatory Public Disclosure</a>
                     </div>
                 </div>
                 <div class="col-md-4 mb-5">
@@ -320,7 +258,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-md-6 text-center text-md-left mb-3 mb-md-0">
-                    <p class="m-0">Copyright &copy; <a class="text-white" href="#">Your Site Name</a>. All Rights Reserved.
+                    <p class="m-0">Copyright &copy; <a class="text-white" href="#">Trilok Memorial Public School</a>. All Rights Reserved.
                     </p>
                 </div>
                 <div class="col-md-6 text-center text-md-right">
