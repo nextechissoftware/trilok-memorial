@@ -76,7 +76,7 @@
                     <a href="about.php" class="nav-item nav-link">About</a>
                     <a href="course.php" class="nav-item nav-link">Classes</a>
                     <a href="gallery.php" class="nav-item nav-link">Gallery</a>
-                    <a href="disclosure.php" class="nav-item nav-link">Mandatory Public Disclosure</a>
+                    <a href="mandatory-public-disclosure.php" class="nav-item nav-link">Mandatory Public Disclosure</a>
                     <a href="contact.php" class="nav-item nav-link">Contact</a>
                 </div>            </div>
         </nav>
@@ -211,7 +211,7 @@
                         <a class="text-white-50 mb-2" href="#"><i class="fa fa-angle-right mr-2"></i>Class 1 - 5</a>
                         <a class="text-white-50 mb-2" href="#"><i class="fa fa-angle-right mr-2"></i>Class 6 - 8</a>
                         <a class="text-white-50 mb-2" href="gallery.php"><i class="fa fa-angle-right mr-2"></i>Gallery</a>
-                        <a class="text-white-50" href="disclosure.php"><i class="fa fa-angle-right mr-2"></i>Mandatory Public Disclosure</a>
+                        <a class="text-white-50" href="mandatory-public-disclosure.php"><i class="fa fa-angle-right mr-2"></i>Mandatory Public Disclosure</a>
                     </div>
                 </div>
                 <div class="col-md-4 mb-5">

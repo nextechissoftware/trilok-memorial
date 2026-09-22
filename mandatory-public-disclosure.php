@@ -76,7 +76,7 @@
                     <a href="about.php" class="nav-item nav-link">About</a>
                     <a href="course.php" class="nav-item nav-link">Classes</a>
                     <a href="gallery.php" class="nav-item nav-link">Gallery</a>
-                    <a href="disclosure.php" class="nav-item nav-link active">Mandatory Public Disclosure</a>
+                    <a href="mandatory-public-disclosure.php" class="nav-item nav-link active">Mandatory Public Disclosure</a>
                     <a href="contact.php" class="nav-item nav-link">Contact</a>
                 </div>            </div>
         </nav>
@@ -129,13 +129,39 @@
                                 <tr><th>S.No.</th><th>Documents / Information</th><th>Status</th></tr>
                             </thead>
                             <tbody>
-                                <tr><td>1</td><td>Copies of Affiliation/Upgradation Letter</td><td>To be uploaded</td></tr>
-                                <tr><td>2</td><td>Copies of Society/Trust Registration Certificate</td><td>To be uploaded</td></tr>
-                                <tr><td>3</td><td>Copy of No Objection Certificate (NOC)</td><td>To be uploaded</td></tr>
-                                <tr><td>4</td><td>Copies of Recognition Certificate</td><td>To be uploaded</td></tr>
-                                <tr><td>5</td><td>Copy of Building Safety Certificate</td><td>To be uploaded</td></tr>
-                                <tr><td>6</td><td>Copy of Fire Safety Certificate</td><td>To be uploaded</td></tr>
-                                <tr><td>7</td><td>Copy of Water, Health and Sanitation Certificate</td><td>To be uploaded</td></tr>
+                                <tr><td>1</td><td>Copies of Affiliation/Upgradation Letter</td><td>
+                                    <a href="mandatory-public-disclosure/affiliation.pdf">View PDF</a>
+                                </td></tr>
+                                <tr><td>2</td><td>Copies of Society/Trust Registration Certificate</td><td>
+                                    <a href="mandatory-public-disclosure/society.pdf">View PDF</a>
+                                </td></tr>
+                                <tr><td>3</td><td>Copy of No Objection Certificate (NOC)</td><td>
+                                    <a href="mandatory-public-disclosure/noc.pdf">View PDF</a>
+                                </td></tr>
+                                <tr><td>4</td><td>Copies of Recognition Certificate</td><td>
+                                    <a href="mandatory-public-disclosure/recognition.pdf">View PDF</a>
+                                </td></tr>
+                                <tr><td>5</td><td>Copy of Building Safety Certificate</td><td>
+                                    <a href="mandatory-public-disclosure/building.pdf">View PDF</a>
+                                </td></tr>
+                                <tr><td>6</td><td>Copy of Fire Safety Certificate</td><td>
+                                    <a href="mandatory-public-disclosure/fire.pdf">View PDF</a>
+                                </td></tr>
+                                <tr><td>7</td><td>Copy of Water, Health and Sanitation Certificate</td><td>
+                                    <a href="mandatory-public-disclosure/water.pdf">View PDF</a>
+                                </td></tr>
+                                <tr><td>8</td><td>SMC</td><td>
+                                    <a href="mandatory-public-disclosure/smc.pdf">View PDF</a>
+                                </td></tr>
+                                <tr><td>9</td><td>PTA</td><td>
+                                    <a href="mandatory-public-disclosure/pta.pdf">View PDF</a>
+                                </td></tr>
+                                <tr><td>10</td><td>Fee structure of the School</td><td>
+                                    <a href="mandatory-public-disclosure/fee.pdf">View PDF</a>
+                                </td></tr>
+                                <tr><td>11</td><td>Academic Calendar</td><td>
+                                    <a href="mandatory-public-disclosure/calendar.pdf">View PDF</a>
+                                </td></tr>
                             </tbody>
                         </table>
                     </div>
@@ -234,7 +260,7 @@
                         <a class="text-white-50 mb-2" href="#"><i class="fa fa-angle-right mr-2"></i>Class 1 - 5</a>
                         <a class="text-white-50 mb-2" href="#"><i class="fa fa-angle-right mr-2"></i>Class 6 - 8</a>
                         <a class="text-white-50 mb-2" href="gallery.php"><i class="fa fa-angle-right mr-2"></i>Gallery</a>
-                        <a class="text-white-50" href="disclosure.php"><i class="fa fa-angle-right mr-2"></i>Mandatory Public Disclosure</a>
+                        <a class="text-white-50" href="mandatory-public-disclosure.php"><i class="fa fa-angle-right mr-2"></i>Mandatory Public Disclosure</a>
                     </div>
                 </div>
                 <div class="col-md-4 mb-5">
@@ -258,11 +284,7 @@
                     </p>
                 </div>
                 <div class="col-md-6 text-center text-md-right">
-                    <p class="m-0">
-                        Designed and Developed by
-                        <a class="text-white" href="https://nextechis.com" target="_blank">
-                            Nextechis Software Solutions
-                        </a>
+                    <p class="m-0">Designed by <a class="text-white" href="https://htmlcodex.com">HTML Codex</a> Distributed by <a href="https://themewagon.com" target="_blank">ThemeWagon</a></a>
                     </p>
                 </div>
             </div>
