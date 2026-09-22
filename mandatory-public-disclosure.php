@@ -112,12 +112,12 @@
                         <table class="table table-bordered">
                             <tbody>
                                 <tr><th style="width:40%">1. Name of the School</th><td>Trilok Memorial Public School</td></tr>
-                                <tr><th>2. Affiliation No.</th><td>To be updated</td></tr>
-                                <tr><th>3. School Code</th><td>To be updated</td></tr>
-                                <tr><th>4. Complete Address with Pin Code</th><td>To be updated</td></tr>
-                                <tr><th>5. Principal Name &amp; Qualification</th><td>To be updated</td></tr>
+                                <tr><th>2. Affiliation No.</th><td>----</td></tr>
+                                <tr><th>3. School Code</th><td>----</td></tr>
+                                <tr><th>4. Complete Address with Pin Code</th><td>Trilok Nagar, Araon Road, Sirsaganj, Firozabad, 283151</td></tr>
+                                <tr><th>5. Principal Name &amp; Qualification</th><td>Khushbu Jadon</td></tr>
                                 <tr><th>6. School Email ID</th><td>trilokmemorial9@gmail.com</td></tr>
-                                <tr><th>7. Contact Details (Landline/Mobile)</th><td>To be updated</td></tr>
+                                <tr><th>7. Contact Details (Landline/Mobile)</th><td>+91 6398272005</td></tr>
                             </tbody>
                         </table>
                     </div>
@@ -150,26 +150,38 @@
                                 <tr><td>7</td><td>Copy of Water, Health and Sanitation Certificate</td><td>
                                     <a href="mandatory-public-disclosure/water.pdf">View PDF</a>
                                 </td></tr>
-                                <tr><td>8</td><td>SMC</td><td>
-                                    <a href="mandatory-public-disclosure/smc.pdf">View PDF</a>
-                                </td></tr>
-                                <tr><td>9</td><td>PTA</td><td>
-                                    <a href="mandatory-public-disclosure/pta.pdf">View PDF</a>
-                                </td></tr>
-                                <tr><td>10</td><td>Fee structure of the School</td><td>
+                            </tbody>
+                        </table>
+                    </div>
+
+                    <h4 class="mb-3">C: School Documents</h4>
+                    <div class="table-responsive mb-5">
+                        <table class="table table-bordered">
+                            <thead class="thead-light">
+                                <tr><th>S.No.</th><th>Documents / Information</th><th>Status</th></tr>
+                            </thead>
+                            <tbody>
+                                <tr><td>1</td><td>Fee structure of the School</td><td>
                                     <a href="mandatory-public-disclosure/fee.pdf">View PDF</a>
                                 </td></tr>
-                                <tr><td>11</td><td>Academic Calendar</td><td>
+                                <tr><td>2</td><td>Academic Calendar</td><td>
                                     <a href="mandatory-public-disclosure/calendar.pdf">View PDF</a>
                                 </td></tr>
-                                <tr><td>12</td><td>Self Certification / DEO</td><td>
-                                    <a href="mandatory-public-disclosure/self_certificate.pdf">View PDF</a>
+                                <tr><td>3</td><td>SMC</td><td>
+                                    <a href="mandatory-public-disclosure/smc.pdf">View PDF</a>
+                                </td></tr>
+                                <tr><td>4</td><td>PTA</td><td>
+                                    <a href="mandatory-public-disclosure/pta.pdf">View PDF</a>
+                                </td></tr>
+                                <tr><td>5</td><td>Last Three-Year Result of the Board Examination (as per applicability)</td><td>To be updated</td></tr>
+                                <tr><td>6</td><td>Self Certification / DEA</td><td>
+                                    <a href="mandatory-public-disclosure/self_certification.pdf">View PDF</a>
                                 </td></tr>
                             </tbody>
                         </table>
                     </div>
 
-                    <h4 class="mb-3">C: Result and Academics</h4>
+                    <h4 class="mb-3">D: Result and Academics</h4>
                     <div class="table-responsive mb-5">
                         <table class="table table-bordered">
                             <thead class="thead-light">
@@ -183,37 +195,78 @@
                         </table>
                     </div>
 
-                    <h4 class="mb-3">D: Staff (Teaching)</h4>
+                    <h4 class="mb-3">Result &ndash; Class X</h4>
+                    <div class="table-responsive mb-5">
+                        <table class="table table-bordered">
+                            <thead class="thead-light">
+                                <tr><th>S.No.</th><th>Year</th><th>No. of Registered Students</th><th>No. of Students Passed</th><th>Pass Percentage</th><th>Remarks</th></tr>
+                            </thead>
+                            <tbody>
+                                <tr><td>1</td><td>To be updated</td><td>To be updated</td><td>To be updated</td><td>To be updated</td><td>To be updated</td></tr>
+                            </tbody>
+                        </table>
+                    </div>
+
+                    <h4 class="mb-3">Result &ndash; Class XII</h4>
+                    <div class="table-responsive mb-5">
+                        <table class="table table-bordered">
+                            <thead class="thead-light">
+                                <tr><th>S.No.</th><th>Year</th><th>No. of Registered Students</th><th>No. of Students Passed</th><th>Pass Percentage</th><th>Remarks</th></tr>
+                            </thead>
+                            <tbody>
+                                <tr><td>1</td><td>To be updated</td><td>To be updated</td><td>To be updated</td><td>To be updated</td><td>To be updated</td></tr>
+                            </tbody>
+                        </table>
+                    </div>
+
+                    <h4 class="mb-3">E: Staff (Teaching)</h4>
                     <div class="table-responsive mb-5">
                         <table class="table table-bordered">
                             <thead class="thead-light">
                                 <tr><th>S.No.</th><th>Information</th><th>Details</th></tr>
                             </thead>
                             <tbody>
-                                <tr><td>1</td><td>Total No. of Teachers</td><td>To be updated</td></tr>
-                                <tr><td>2</td><td>PGT / TGT / PRT Details</td><td>To be updated</td></tr>
-                                <tr><td>3</td><td>Teachers' Salary as per Norms</td><td>To be updated</td></tr>
+                                <tr><td>1</td><td>Principal</td><td>Khushbu Jadon</td></tr>
+                                <tr><td>2</td><td>Vice Principal</td><td>----</td></tr>
+                                <tr><td>3</td><td>Headmistress / Headmaster</td><td>----</td></tr>
+                                <tr><td>4</td><td>Total No. of Teachers</td><td>16</td></tr>
+                                <tr><td>5</td><td>PGT / TGT / PRT Details</td><td>
+                                    PGT -> ---
+                                    <br/>
+                                    TGT -> 8
+                                    <br/>
+                                    PRT -> 5
+                                </td></tr>
+                                <tr><td>6</td><td>Teacher&ndash;Section Ratio</td><td>1.5:1</td></tr>
+                                <tr><td>7</td><td>Details of Special Educator</td><td>Janvijay Verma</td></tr>
+                                <tr><td>8</td><td>Details of Counsellor &amp; Wellness Teacher</td><td>Saniya Rathaure &amp; Sheetala</td></tr>
+                                <tr><td>9</td><td>Teachers' Salary as per Norms</td><td>----</td></tr>
                             </tbody>
                         </table>
                     </div>
 
-                    <h4 class="mb-3">E: School Infrastructure</h4>
+                    <h4 class="mb-3">F: School Infrastructure</h4>
                     <div class="table-responsive mb-5">
                         <table class="table table-bordered">
                             <thead class="thead-light">
                                 <tr><th>S.No.</th><th>Information</th><th>Details</th></tr>
                             </thead>
                             <tbody>
-                                <tr><td>1</td><td>Total Campus Area</td><td>To be updated</td></tr>
-                                <tr><td>2</td><td>No. of Classrooms</td><td>To be updated</td></tr>
-                                <tr><td>3</td><td>Library Facility</td><td>To be updated</td></tr>
-                                <tr><td>4</td><td>Playground Facility</td><td>To be updated</td></tr>
-                                <tr><td>5</td><td>Computer Lab</td><td>To be updated</td></tr>
+                                <tr><td>1</td><td>Total Campus Area</td><td> 6185 Sq. Mtr.</td></tr>
+                                <tr><td>2</td><td>No. and Size of Classrooms</td><td>No.: 15 / Size: 48 Sq. Mtr.</td></tr>
+                                <tr><td>3</td><td>No. and Size of Laboratories including Computer Labs</td><td>No.: 4 / Size: 56 Sq. Mtr.</td></tr>
+                                <!-- <tr><td>4</td><td>Library Facility</td><td></td></tr> -->
+                                <!-- <tr><td>5</td><td>Playground Facility</td><td>To be updated</td></tr> -->
+                                <tr><td>4</td><td>Internet Facility</td><td>YES</td></tr>
+                                <tr><td>5</td><td>No. of Girls Toilets</td><td>8</td></tr>
+                                <tr><td>6</td><td>No. of Boys Toilets</td><td>8</td></tr>
+                                <tr><td>7</td><td>Link of YouTube Video of School Inspection covering Infrastructure</td><td>To be updated</td></tr>
+                                <tr><td>8</td><td>List of Faculty</td><td>To be updated</td></tr>
                             </tbody>
                         </table>
                     </div>
 
-                    <p class="text-muted"><small>Note: This page is prepared as per CBSE Mandatory Public Disclosure format. Please share the actual affiliation number, certificates, staff details and infrastructure data so it can be filled in accurately.</small></p>
+                    <!-- <p class="text-muted"><small>Note: This page is prepared as per CBSE Mandatory Public Disclosure format. Please share the actual affiliation number, certificates, staff details and infrastructure data so it can be filled in accurately.</small></p> -->
                 </div>
             </div>
         </div>
