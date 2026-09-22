@@ -33,7 +33,7 @@
                 <div class="d-inline-flex align-items-center text-white">
                     <small><i class="fa fa-phone-alt mr-2"></i>+012 345 6789</small>
                     <small class="px-3">|</small>
-                    <small><i class="fa fa-envelope mr-2"></i>trilokmemorial9@gmail.com</small>
+                    <small><i class="fa fa-envelope mr-2"></i> trilokmemorial74@gmail.com</small>
                 </div>
             </div>
             <div class="col-lg-6 text-center text-lg-right">
@@ -116,7 +116,7 @@
                                 <tr><th>3. School Code</th><td>----</td></tr>
                                 <tr><th>4. Complete Address with Pin Code</th><td>Trilok Nagar, Araon Road, Sirsaganj, Firozabad, 283151</td></tr>
                                 <tr><th>5. Principal Name &amp; Qualification</th><td>Khushbu Jadon</td></tr>
-                                <tr><th>6. School Email ID</th><td>trilokmemorial9@gmail.com</td></tr>
+                                <tr><th>6. School Email ID</th><td> trilokmemorial74@gmail.com</td></tr>
                                 <tr><th>7. Contact Details (Landline/Mobile)</th><td>+91 6398272005</td></tr>
                             </tbody>
                         </table>
@@ -239,7 +239,7 @@
                                 </td></tr>
                                 <tr><td>6</td><td>Teacher&ndash;Section Ratio</td><td>1.5:1</td></tr>
                                 <tr><td>7</td><td>Details of Special Educator</td><td>Janvijay Verma</td></tr>
-                                <tr><td>8</td><td>Details of Counsellor &amp; Wellness Teacher</td><td>Saniya Rathaure &amp; Sheetala</td></tr>
+                                <tr><td>8</td><td>Details of Counsellor &amp; Wellness Teacher</td><td>Saniya Rathaur &amp; Sheetala</td></tr>
                                 <tr><td>9</td><td>Teachers' Salary as per Norms</td><td>----</td></tr>
                             </tbody>
                         </table>
@@ -301,7 +301,7 @@
                     <h3 class="text-white mb-4">Get In Touch</h3>
                     <p><i class="fa fa-map-marker-alt mr-2"></i>Trilok Nagar, Araon Road, Sirsaganj, Firozabad, U.P</p>
                     <p><i class="fa fa-phone-alt mr-2"></i>+91 9917886655</p>
-                    <p><i class="fa fa-envelope mr-2"></i>trilokmemorial9@gmail.com</p>
+                    <p><i class="fa fa-envelope mr-2"></i>trilokmemorial74@gmail.com</p>
                     <div class="d-flex justify-content-start mt-4">
                         <a class="text-white mr-4" href="#"><i class="fab fa-2x fa-twitter"></i></a>
                         <a class="text-white mr-4" href="#"><i class="fab fa-2x fa-facebook-f"></i></a>

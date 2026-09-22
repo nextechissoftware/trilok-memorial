@@ -33,7 +33,7 @@
                 <div class="d-inline-flex align-items-center text-white">
                     <small><i class="fa fa-phone-alt mr-2"></i>+012 345 6789</small>
                     <small class="px-3">|</small>
-                    <small><i class="fa fa-envelope mr-2"></i>trilokmemorial9@gmail.com</small>
+                    <small><i class="fa fa-envelope mr-2"></i> trilokmemorial74@gmail.com</small>
                 </div>
             </div>
             <div class="col-lg-6 text-center text-lg-right">
@@ -169,7 +169,7 @@
                     <h3 class="text-white mb-4">Get In Touch</h3>
                     <p><i class="fa fa-map-marker-alt mr-2"></i>Trilok Nagar, Araon Road, Sirsaganj, Firozabad, U.P</p>
                     <p><i class="fa fa-phone-alt mr-2"></i>+91 9917886655</p>
-                    <p><i class="fa fa-envelope mr-2"></i>trilokmemorial9@gmail.com</p>
+                    <p><i class="fa fa-envelope mr-2"></i> trilokmemorial74@gmail.com</p>
                     <div class="d-flex justify-content-start mt-4">
                         <a class="text-white mr-4" href="#"><i class="fab fa-2x fa-twitter"></i></a>
                         <a class="text-white mr-4" href="#"><i class="fab fa-2x fa-facebook-f"></i></a>
