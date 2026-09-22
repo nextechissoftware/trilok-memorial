@@ -31,7 +31,7 @@
         <div class="row py-2 px-lg-5">
             <div class="col-lg-6 text-center text-lg-left mb-2 mb-lg-0">
                 <div class="d-inline-flex align-items-center text-white">
-                    <small><i class="fa fa-phone-alt mr-2"></i>+012 345 6789</small>
+                    <small><i class="fa fa-phone-alt mr-2"></i>+91 9917886655</small>
                     <small class="px-3">|</small>
                     <small><i class="fa fa-envelope mr-2"></i>trilokmemorial9@gmail.com</small>
                 </div>
@@ -124,13 +124,13 @@
                         </div>
                         <div class="col-3 px-0">
                             <div class="bg-secondary text-center p-4">
-                                <h1 class="text-white" data-toggle="counter-up">123</h1>
+                                <h1 class="text-white" data-toggle="counter-up">16</h1>
                                 <h6 class="text-uppercase text-white">Qualified<span class="d-block">Teachers</span></h6>
                             </div>
                         </div>
                         <div class="col-3 px-0">
                             <div class="bg-warning text-center p-4">
-                                <h1 class="text-white" data-toggle="counter-up">1234</h1>
+                                <h1 class="text-white" data-toggle="counter-up">500</h1>
                                 <h6 class="text-uppercase text-white">Happy<span class="d-block">Students</span></h6>
                             </div>
                         </div>
@@ -452,7 +452,7 @@
                             </div>
                             <div class="mt-n1">
                                 <h4>Our Location</h4>
-                                <p class="m-0">123 Street, New York, USA</p>
+                                <p class="m-0">Trilok Nagar, Araon Road, Sirsaganj, Firozabad, U.P</p>
                             </div>
                         </div>
                         <div class="d-flex align-items-center mb-5">
@@ -461,7 +461,7 @@
                             </div>
                             <div class="mt-n1">
                                 <h4>Call Us</h4>
-                                <p class="m-0">+012 345 6789</p>
+                                <p class="m-0">+91 9917886655</p>
                             </div>
                         </div>
                         <div class="d-flex align-items-center">
@@ -519,7 +519,7 @@
                     </a>
                     <p class="m-0">Trilok Memorial Public School is committed to providing quality education from Nursery to Class 8, focusing on the all-round development of every child in a safe and nurturing environment.</p>
                 </div>
-                <div class="col-md-6 mb-5">
+                <!-- <div class="col-md-6 mb-5">
                     <h3 class="text-white mb-4">Newsletter</h3>
                     <div class="w-100">
                         <div class="input-group">
@@ -529,13 +529,13 @@
                             </div>
                         </div>
                     </div>
-                </div>
+                </div> -->
             </div>
             <div class="row">
                 <div class="col-md-4 mb-5">
                     <h3 class="text-white mb-4">Get In Touch</h3>
-                    <p><i class="fa fa-map-marker-alt mr-2"></i>123 Street, New York, USA</p>
-                    <p><i class="fa fa-phone-alt mr-2"></i>+012 345 67890</p>
+                    <p><i class="fa fa-map-marker-alt mr-2"></i>Trilok Nagar, Araon Road, Sirsaganj, Firozabad, U.P</p>
+                    <p><i class="fa fa-phone-alt mr-2"></i>+91 9917886655</p>
                     <p><i class="fa fa-envelope mr-2"></i>trilokmemorial9@gmail.com</p>
                     <div class="d-flex justify-content-start mt-4">
                         <a class="text-white mr-4" href="#"><i class="fab fa-2x fa-twitter"></i></a>
@@ -577,7 +577,7 @@
                 <div class="col-md-6 text-center text-md-right">
                     <p class="m-0">
                         Designed and Developed by
-                        <a class="text-white" href="https://nextechis.com" target="_blank">
+                        <a class="text-white" href="https://nextechis.in" target="_blank">
                             Nextechis Software Solutions
                         </a>
                     </p>

@@ -262,7 +262,7 @@
                     </a>
                     <p class="m-0">Trilok Memorial Public School is committed to providing quality education from Nursery to Class 8, focusing on the all-round development of every child in a safe and nurturing environment.</p>
                 </div>
-                <div class="col-md-6 mb-5">
+                <!-- <div class="col-md-6 mb-5">
                     <h3 class="text-white mb-4">Newsletter</h3>
                     <div class="w-100">
                         <div class="input-group">
@@ -272,13 +272,13 @@
                             </div>
                         </div>
                     </div>
-                </div>
+                </div> -->
             </div>
             <div class="row">
                 <div class="col-md-4 mb-5">
                     <h3 class="text-white mb-4">Get In Touch</h3>
-                    <p><i class="fa fa-map-marker-alt mr-2"></i>123 Street, New York, USA</p>
-                    <p><i class="fa fa-phone-alt mr-2"></i>+012 345 67890</p>
+                    <p><i class="fa fa-map-marker-alt mr-2"></i>Trilok Nagar, Araon Road, Sirsaganj, Firozabad, U.P</p>
+                    <p><i class="fa fa-phone-alt mr-2"></i>+91 9917886655</p>
                     <p><i class="fa fa-envelope mr-2"></i>trilokmemorial9@gmail.com</p>
                     <div class="d-flex justify-content-start mt-4">
                         <a class="text-white mr-4" href="#"><i class="fab fa-2x fa-twitter"></i></a>
@@ -320,7 +320,7 @@
                 <div class="col-md-6 text-center text-md-right">
                     <p class="m-0">
                         Designed and Developed by
-                        <a class="text-white" href="https://nextechis.com" target="_blank">
+                        <a class="text-white" href="https://nextechis.in" target="_blank">
                             Nextechis Software Solutions
                         </a>
                     </p>
