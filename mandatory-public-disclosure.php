@@ -162,6 +162,9 @@
                                 <tr><td>11</td><td>Academic Calendar</td><td>
                                     <a href="mandatory-public-disclosure/calendar.pdf">View PDF</a>
                                 </td></tr>
+                                <tr><td>12</td><td>Self Certification / DEO</td><td>
+                                    <a href="mandatory-public-disclosure/self_certificate.pdf">View PDF</a>
+                                </td></tr>
                             </tbody>
                         </table>
                     </div>
