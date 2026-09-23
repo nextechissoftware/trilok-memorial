@@ -31,7 +31,7 @@
         <div class="row py-2 px-lg-5">
             <div class="col-lg-6 text-center text-lg-left mb-2 mb-lg-0">
                 <div class="d-inline-flex align-items-center text-white">
-                    <small><i class="fa fa-phone-alt mr-2"></i>+012 345 6789</small>
+                    <small><i class="fa fa-phone-alt mr-2"></i>+91 9917886655</small>
                     <small class="px-3">|</small>
                     <small><i class="fa fa-envelope mr-2"></i> trilokmemorial74@gmail.com</small>
                 </div>
@@ -119,7 +119,7 @@
                             </div>
                             <div class="mt-n1">
                                 <h4>Call Us</h4>
-                                <p class="m-0">+012 345 6789</p>
+                                <p class="m-0">+91 9917886655</p>
                             </div>
                         </div>
                         <div class="d-flex align-items-center">

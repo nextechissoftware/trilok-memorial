@@ -31,7 +31,7 @@
         <div class="row py-2 px-lg-5">
             <div class="col-lg-6 text-center text-lg-left mb-2 mb-lg-0">
                 <div class="d-inline-flex align-items-center text-white">
-                    <small><i class="fa fa-phone-alt mr-2"></i>+012 345 6789</small>
+                    <small><i class="fa fa-phone-alt mr-2"></i>+91 9917886655</small>
                     <small class="px-3">|</small>
                     <small><i class="fa fa-envelope mr-2"></i> trilokmemorial74@gmail.com</small>
                 </div>
@@ -115,7 +115,7 @@
                                 <tr><th>2. Affiliation No.</th><td>----</td></tr>
                                 <tr><th>3. School Code</th><td>----</td></tr>
                                 <tr><th>4. Complete Address with Pin Code</th><td>Trilok Nagar, Araon Road, Sirsaganj, Firozabad, 283151</td></tr>
-                                <tr><th>5. Principal Name &amp; Qualification</th><td>Khushbu Jadon</td></tr>
+                                <tr><th>5. Principal Name &amp; Qualification</th><td>Smt. Khushbu Jadon</td></tr>
                                 <tr><th>6. School Email ID</th><td> trilokmemorial74@gmail.com</td></tr>
                                 <tr><th>7. Contact Details (Landline/Mobile)</th><td>+91 6398272005</td></tr>
                             </tbody>
@@ -226,7 +226,7 @@
                                 <tr><th>S.No.</th><th>Information</th><th>Details</th></tr>
                             </thead>
                             <tbody>
-                                <tr><td>1</td><td>Principal</td><td>Khushbu Jadon</td></tr>
+                                <tr><td>1</td><td>Principal</td><td>Smt. Khushbu Jadon</td></tr>
                                 <tr><td>2</td><td>Vice Principal</td><td>----</td></tr>
                                 <tr><td>3</td><td>Headmistress / Headmaster</td><td>----</td></tr>
                                 <tr><td>4</td><td>Total No. of Teachers</td><td>16</td></tr>
@@ -238,8 +238,8 @@
                                     PRT -> 5
                                 </td></tr>
                                 <tr><td>6</td><td>Teacher&ndash;Section Ratio</td><td>1.5:1</td></tr>
-                                <tr><td>7</td><td>Details of Special Educator</td><td>Janvijay Verma</td></tr>
-                                <tr><td>8</td><td>Details of Counsellor &amp; Wellness Teacher</td><td>Saniya Rathaur &amp; Sheetala</td></tr>
+                                <tr><td>7</td><td>Details of Special Educator</td><td>Mr. Jan Vijay Verma</td></tr>
+                                <tr><td>8</td><td>Details of Counsellor &amp; Wellness Teacher</td><td>Saniya Rathaur &amp; Mrs. Sheetala</td></tr>
                                 <tr><td>9</td><td>Teachers' Salary as per Norms</td><td>----</td></tr>
                             </tbody>
                         </table>
@@ -255,18 +255,49 @@
                                 <tr><td>1</td><td>Total Campus Area</td><td> 6185 Sq. Mtr.</td></tr>
                                 <tr><td>2</td><td>No. and Size of Classrooms</td><td>No.: 15 / Size: 48 Sq. Mtr.</td></tr>
                                 <tr><td>3</td><td>No. and Size of Laboratories including Computer Labs</td><td>No.: 4 / Size: 56 Sq. Mtr.</td></tr>
-                                <!-- <tr><td>4</td><td>Library Facility</td><td></td></tr> -->
-                                <!-- <tr><td>5</td><td>Playground Facility</td><td>To be updated</td></tr> -->
                                 <tr><td>4</td><td>Internet Facility</td><td>YES</td></tr>
                                 <tr><td>5</td><td>No. of Girls Toilets</td><td>8</td></tr>
                                 <tr><td>6</td><td>No. of Boys Toilets</td><td>8</td></tr>
                                 <tr><td>7</td><td>Link of YouTube Video of School Inspection covering Infrastructure</td><td>To be updated</td></tr>
-                                <tr><td>8</td><td>List of Faculty</td><td>To be updated</td></tr>
                             </tbody>
                         </table>
                     </div>
 
-                    <!-- <p class="text-muted"><small>Note: This page is prepared as per CBSE Mandatory Public Disclosure format. Please share the actual affiliation number, certificates, staff details and infrastructure data so it can be filled in accurately.</small></p> -->
+                    <h4 class="mb-3">G: List of Faculty</h4>
+                    <div class="table-responsive mb-5">
+                        <table class="table table-bordered">
+                            <thead class="thead-light">
+                                <tr><th>SL No.</th><th>Name</th><th>Designation</th><th>Qualification</th></tr>
+                            </thead>
+                            <tbody>
+                                <tr><td>1</td><td>Smt. Khushbu Jadon</td><td>Principal</td><td>MA, B.Ed</td></tr>
+                                <tr><td>2</td><td>Mr Jan Vijay Verma</td><td>Special Educator</td><td>B.Ed Special Education</td></tr>
+                                <tr><td>3</td><td>Saniya Rathaur</td><td>Counsellor</td><td>M.A. Psychology</td></tr>
+                                <tr><td>4</td><td>Miss Bharti</td><td>Librarian</td><td>M.Lib</td></tr>
+                                <tr><td>5</td><td>Mrs Sheetala</td><td>Wellness Teacher</td><td>G.N.M.</td></tr>
+                                <tr><td>6</td><td>Mr Kartik</td><td>PTI</td><td>B.P.E.D.</td></tr>
+                                <tr><td>7</td><td>Miss Sweta Yadav</td><td>TGT</td><td>B.Sc, B.Ed.</td></tr>
+                                <tr><td>8</td><td>Mr Rajendra Singh</td><td>TGT</td><td>M.Sc, B.Ed.</td></tr>
+                                <tr><td>9</td><td>Mrs Ankita Yadav</td><td>TGT</td><td>M.A, B.Ed.</td></tr>
+                                <tr><td>10</td><td>Mr Bhuvanesh Gupta</td><td>TGT</td><td>B.A, B.Ed.</td></tr>
+                                <tr><td>11</td><td>Miss Kajal Baghel</td><td>TGT</td><td>B.Sc, B.Ed.</td></tr>
+                                <tr><td>12</td><td>Mrs Anjana Vishnavat</td><td>TGT</td><td>B.Sc, B.Ed.</td></tr>
+                                <tr><td>13</td><td>Mrs Richa Singh</td><td>TGT</td><td>B.Sc, B.Ed.</td></tr>
+                                <tr><td>14</td><td>Mr Yashvir Singh</td><td>TGT</td><td>B.Sc, B.Ed.</td></tr>
+                                <tr><td>15</td><td>Miss Palak</td><td>PRT</td><td>B.Com. (M.A.)</td></tr>
+                                <tr><td>16</td><td>Miss Kajal Rathor</td><td>PRT</td><td>B.Sc.</td></tr>
+                                <tr><td>17</td><td>Mrs. Jagriti Jadaun</td><td>PRT</td><td>M.A</td></tr>
+                                <tr><td>18</td><td>Miss Divya Kaushal</td><td>PRT</td><td>M.C.A.</td></tr>
+                                <tr><td>19</td><td>Miss Roshani Sharma</td><td>PRT</td><td>B.Sc. (M.Sc)</td></tr>
+                                <tr><td>20</td><td>Mrs Priyanka Singh</td><td>NTT</td><td>M.A.</td></tr>
+                                <tr><td>21</td><td>Mrs Ranjana Chaturvedi</td><td>NTT</td><td>B.A.</td></tr>
+                                <tr><td>22</td><td>Mrs Preeti Singh</td><td>NTT</td><td>E.C.C.E</td></tr>
+                                <tr><td>23</td><td>Mr Raghvendra Singh</td><td>Accountant</td><td>M.A.</td></tr>
+                                <tr><td>24</td><td>Miss Bhumika</td><td>Dance Teacher</td><td>ODC</td></tr>
+                            </tbody>
+                        </table>
+                    </div>
+
                 </div>
             </div>
         </div>
@@ -284,17 +315,6 @@
                     </a>
                     <p class="m-0">Trilok Memorial Public School is committed to providing quality education from Nursery to Class 8, focusing on the all-round development of every child in a safe and nurturing environment.</p>
                 </div>
-                <!-- <div class="col-md-6 mb-5">
-                    <h3 class="text-white mb-4">Newsletter</h3>
-                    <div class="w-100">
-                        <div class="input-group">
-                            <input type="text" class="form-control border-light" style="padding: 30px;" placeholder="Your Email Address">
-                            <div class="input-group-append">
-                                <button class="btn btn-primary px-4">Sign Up</button>
-                            </div>
-                        </div>
-                    </div>
-                </div> -->
             </div>
             <div class="row">
                 <div class="col-md-4 mb-5">
